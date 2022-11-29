@@ -25,5 +25,5 @@ Profesora, para que corra este programa es necesario que cambie algunas rutas, l
           
          
          PD: Al momento de elegir la imagen para la foto en el boton IMAGEN, esta solo soporta formatos .png por lo que usar otros dara un error.
-         
+         Adjunto las librerias que utilice en caso de que de error xd.
          GRACIAS <3
